@@ -1,4 +1,4 @@
 # SimpleBird v1
 
 
-![example](example.gif)
+![example](processing_simple_bird/example.gif)
